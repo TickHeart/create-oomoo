@@ -1,7 +1,7 @@
 {
   "name": "@tickh/create-oomoo",
   "type": "module",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "packageManager": "pnpm@7.1.2",
   "description": "",
   "author": "TickHeart",
@@ -79,6 +79,6 @@
     ]
   },
   "dependencies": {
-    "oomoo": "^0.2.6"
+    "oomoo": "^0.2.7"
   }
 }
